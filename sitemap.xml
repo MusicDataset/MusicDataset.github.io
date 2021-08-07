@@ -2,43 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://MusicDataset.github.io/home/downloads/download1/</loc>
+    <loc>http://MusicDataset.github.io/home/baroque/</loc>
   </url><url>
-    <loc>http://MusicDataset.github.io/home/services/</loc>
+    <loc>http://MusicDataset.github.io/home/classical/</loc>
   </url><url>
-    <loc>http://MusicDataset.github.io/home/recentworks/</loc>
+    <loc>http://MusicDataset.github.io/home/romantic/</loc>
   </url><url>
-    <loc>http://MusicDataset.github.io/home/downloads/</loc>
-  </url><url>
-    <loc>http://MusicDataset.github.io/home/clients/</loc>
+    <loc>http://MusicDataset.github.io/home/contemporary/</loc>
   </url><url>
     <loc>http://MusicDataset.github.io/about/</loc>
   </url><url>
+    <loc>http://MusicDataset.github.io/post/bach_888/</loc>
+    <lastmod>2021-08-07T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://MusicDataset.github.io/post/bach_903/</loc>
+    <lastmod>2021-08-07T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://MusicDataset.github.io/post/bach_858/</loc>
+    <lastmod>2021-08-07T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://MusicDataset.github.io/post/bach_864/</loc>
+    <lastmod>2021-08-07T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://MusicDataset.github.io/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2021-08-07T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://MusicDataset.github.io/post/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2021-08-07T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://MusicDataset.github.io/post/vivamus-lacus-mauris/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <loc>http://MusicDataset.github.io/post/bach_865/</loc>
+    <lastmod>2021-08-03T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://MusicDataset.github.io/post/bach_863/</loc>
+    <lastmod>2021-08-03T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://MusicDataset.github.io/home/subheader/</loc>
   </url><url>
-    <loc>http://MusicDataset.github.io/home/services/service3/</loc>
-  </url><url>
     <loc>http://MusicDataset.github.io/categories/</loc>
   </url><url>
-    <loc>http://MusicDataset.github.io/home/services/service1/</loc>
+    <loc>http://MusicDataset.github.io/home/baroque/bach/bach858/</loc>
   </url><url>
-    <loc>http://MusicDataset.github.io/home/downloads/download2/</loc>
+    <loc>http://MusicDataset.github.io/home/baroque/bach/bach903/</loc>
   </url><url>
     <loc>http://MusicDataset.github.io/home/</loc>
   </url><url>
-    <loc>http://MusicDataset.github.io/home/services/service4/</loc>
+    <loc>http://MusicDataset.github.io/home/baroque/bach/bach864/</loc>
+  </url><url>
+    <loc>http://MusicDataset.github.io/home/baroque/bach/bach888/</loc>
+  </url><url>
+    <loc>http://MusicDataset.github.io/home/baroque/bach/bach865/</loc>
+  </url><url>
+    <loc>http://MusicDataset.github.io/home/baroque/bach/bach863/</loc>
   </url><url>
     <loc>http://MusicDataset.github.io/tags/</loc>
-  </url><url>
-    <loc>http://MusicDataset.github.io/home/services/service2/</loc>
   </url>
 </urlset>

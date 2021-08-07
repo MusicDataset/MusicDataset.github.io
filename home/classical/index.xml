@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classical on Music Dataset</title>
+    <link>http://MusicDataset.github.io/home/classical/</link>
+    <description>Recent content in Classical on Music Dataset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://MusicDataset.github.io/home/classical/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
