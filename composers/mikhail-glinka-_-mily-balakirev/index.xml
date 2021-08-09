@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikhail Glinka _ Mily Balakirev on Music Dataset</title>
+    <link>http://MusicDataset.github.io/composers/mikhail-glinka-_-mily-balakirev/</link>
+    <description>Recent content in Mikhail Glinka _ Mily Balakirev on Music Dataset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="http://MusicDataset.github.io/composers/mikhail-glinka-_-mily-balakirev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mikhail Glinka _ Mily Balakirev - Lark (1)</title>
+      <link>http://MusicDataset.github.io/musics/l/lark1-mikhail-glinka-_-mily-balakirev/</link>
+      <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
+      
+      <guid>http://MusicDataset.github.io/musics/l/lark1-mikhail-glinka-_-mily-balakirev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikhail Glinka _ Mily Balakirev - Lark (2)</title>
+      <link>http://MusicDataset.github.io/musics/l/lark2-mikhail-glinka-_-mily-balakirev/</link>
+      <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
+      
+      <guid>http://MusicDataset.github.io/musics/l/lark2-mikhail-glinka-_-mily-balakirev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

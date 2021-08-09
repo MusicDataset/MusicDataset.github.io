@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leoš Janáček on Music Dataset</title>
+    <link>http://MusicDataset.github.io/composers/leo%C5%A1-jan%C3%A1%C4%8Dek/</link>
+    <description>Recent content in Leoš Janáček on Music Dataset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="http://MusicDataset.github.io/composers/leo%C5%A1-jan%C3%A1%C4%8Dek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leoš Janáček - In the Mists (1)</title>
+      <link>http://MusicDataset.github.io/musics/i/inthemists1-leo%C5%A1-jan%C3%A1%C4%8Dek/</link>
+      <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
+      
+      <guid>http://MusicDataset.github.io/musics/i/inthemists1-leo%C5%A1-jan%C3%A1%C4%8Dek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leoš Janáček - In the Mists I. Andante (1)</title>
+      <link>http://MusicDataset.github.io/musics/i/inthemistsi.andante1-leo%C5%A1-jan%C3%A1%C4%8Dek/</link>
+      <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
+      
+      <guid>http://MusicDataset.github.io/musics/i/inthemistsi.andante1-leo%C5%A1-jan%C3%A1%C4%8Dek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leoš Janáček - Piano Sonata 1. X. 1905 &#34;From the Street&#34; (1)</title>
+      <link>http://MusicDataset.github.io/musics/p/pianosonata1.x.1905fromthestreet1-leo%C5%A1-jan%C3%A1%C4%8Dek/</link>
+      <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
+      
+      <guid>http://MusicDataset.github.io/musics/p/pianosonata1.x.1905fromthestreet1-leo%C5%A1-jan%C3%A1%C4%8Dek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leoš Janáček - Sonata 1.x.1905 &#34;On the Streets&#34; (1)</title>
+      <link>http://MusicDataset.github.io/musics/s/sonata1.x.1905onthestreets1-leo%C5%A1-jan%C3%A1%C4%8Dek/</link>
+      <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
+      
+      <guid>http://MusicDataset.github.io/musics/s/sonata1.x.1905onthestreets1-leo%C5%A1-jan%C3%A1%C4%8Dek/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
