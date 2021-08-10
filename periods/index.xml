@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Periods on Music Dataset</title>
-    <link>http://MusicDataset.github.io/periods/</link>
+    <link>/periods/</link>
     <description>Recent content in Periods on Music Dataset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="http://MusicDataset.github.io/periods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="/periods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baroque</title>
-      <link>http://MusicDataset.github.io/periods/baroque/</link>
+      <link>/periods/baroque/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/periods/baroque/</guid>
+      <guid>/periods/baroque/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classical</title>
-      <link>http://MusicDataset.github.io/periods/classical/</link>
+      <link>/periods/classical/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/periods/classical/</guid>
+      <guid>/periods/classical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contemporary (20th/21st Century)</title>
-      <link>http://MusicDataset.github.io/periods/contemporary/</link>
+      <link>/periods/contemporary/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/periods/contemporary/</guid>
+      <guid>/periods/contemporary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impressionism</title>
-      <link>http://MusicDataset.github.io/periods/impressionism/</link>
+      <link>/periods/impressionism/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/periods/impressionism/</guid>
+      <guid>/periods/impressionism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Romantic</title>
-      <link>http://MusicDataset.github.io/periods/romantic/</link>
+      <link>/periods/romantic/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/periods/romantic/</guid>
+      <guid>/periods/romantic/</guid>
       <description></description>
     </item>
     

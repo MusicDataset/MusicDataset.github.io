@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Percy Grainger on Music Dataset</title>
-    <link>http://MusicDataset.github.io/composers/percy-grainger/</link>
+    <link>/composers/percy-grainger/</link>
     <description>Recent content in Percy Grainger on Music Dataset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="http://MusicDataset.github.io/composers/percy-grainger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="/composers/percy-grainger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Percy Grainger - Ramble on the Last Love - Duet (1)</title>
-      <link>http://MusicDataset.github.io/musics/r/rambleonthelastlove-duet1-percy-grainger/</link>
+      <link>/musics/r/rambleonthelastlove-duet1-percy-grainger/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/musics/r/rambleonthelastlove-duet1-percy-grainger/</guid>
+      <guid>/musics/r/rambleonthelastlove-duet1-percy-grainger/</guid>
       <description></description>
     </item>
     

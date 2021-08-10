@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Henry Purcell on Music Dataset</title>
-    <link>http://MusicDataset.github.io/composers/henry-purcell/</link>
+    <link>/composers/henry-purcell/</link>
     <description>Recent content in Henry Purcell on Music Dataset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="http://MusicDataset.github.io/composers/henry-purcell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="/composers/henry-purcell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Henry Purcell - Suite in C Major Z. 666 (Complete) (1)</title>
-      <link>http://MusicDataset.github.io/musics/s/suiteincmajorz.666complete1-henry-purcell/</link>
+      <link>/musics/s/suiteincmajorz.666complete1-henry-purcell/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/musics/s/suiteincmajorz.666complete1-henry-purcell/</guid>
+      <guid>/musics/s/suiteincmajorz.666complete1-henry-purcell/</guid>
       <description></description>
     </item>
     

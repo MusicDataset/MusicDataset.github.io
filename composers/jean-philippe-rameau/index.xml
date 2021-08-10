@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean-Philippe Rameau on Music Dataset</title>
-    <link>http://MusicDataset.github.io/composers/jean-philippe-rameau/</link>
+    <link>/composers/jean-philippe-rameau/</link>
     <description>Recent content in Jean-Philippe Rameau on Music Dataset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="http://MusicDataset.github.io/composers/jean-philippe-rameau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="/composers/jean-philippe-rameau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jean-Philippe Rameau - RameauSelections (1)</title>
-      <link>http://MusicDataset.github.io/musics/r/rameauselections1-jean-philippe-rameau/</link>
+      <link>/musics/r/rameauselections1-jean-philippe-rameau/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/musics/r/rameauselections1-jean-philippe-rameau/</guid>
+      <guid>/musics/r/rameauselections1-jean-philippe-rameau/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>George Enescu on Music Dataset</title>
-    <link>http://MusicDataset.github.io/composers/george-enescu/</link>
+    <link>/composers/george-enescu/</link>
     <description>Recent content in George Enescu on Music Dataset</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="http://MusicDataset.github.io/composers/george-enescu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 07:43:13 -0600</lastBuildDate><atom:link href="/composers/george-enescu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>George Enescu - Suite Op. 10 (1)</title>
-      <link>http://MusicDataset.github.io/musics/s/suiteop.101-george-enescu/</link>
+      <link>/musics/s/suiteop.101-george-enescu/</link>
       <pubDate>Sun, 08 Aug 2021 07:43:13 -0600</pubDate>
       
-      <guid>http://MusicDataset.github.io/musics/s/suiteop.101-george-enescu/</guid>
+      <guid>/musics/s/suiteop.101-george-enescu/</guid>
       <description></description>
     </item>
     
