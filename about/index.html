@@ -36,7 +36,7 @@
       <img class='img-circle' src="/images/avatar.jpg" alt="">
       <span class="title">Music Dataset</span>
       <span class="tagline">A database labeling music  with descriptive tags<br>
-        <a href="mailto:"></a>
+        <a href="mailto:MusicDataset@gmail.com">MusicDataset@gmail.com</a>
       </span>
    </h1>
 </div>
@@ -116,8 +116,51 @@
   
   			
   			<article class="col-sm-8 maincontent">
-                  <p>Music Dataset is created by a high school student passionate about both music and computer science. The idea was created when the student was working on a music generation model that uses machine learning. She wished to allow the user to input specific characteristics they want in the music, and to achieve that, a curated training data must be created.</p>
-<p>Music Dataset is a platform that collects people&rsquo;s emotional responses after listening to classical music. By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing dataset for training.</p>
+                  <h1 id="music-dataset">Music dataset</h1>
+<h3 id="purpose">Purpose</h3>
+<p>Music Dataset is a platform that collects people&rsquo;s emotional responses after listening to classical music. By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing a dataset for training.</p>
+<h3 id="how-to-use-it">How to use it?</h3>
+<p>The repertoires in this dataset have been sorted for easy find:</p>
+<ol>
+<li>The first letter of their title in the alphabetical order</li>
+<li>The music period from which their composer lived in:
+<ol>
+<li>Baroque (1600 - 1750)</li>
+<li>Classical (1750 – 1820)</li>
+<li>Romantic (1820 – 1900)</li>
+<li>Impressionism (1890-1920)</li>
+<li>Contemporary (1820 – present)</li>
+</ol>
+</li>
+<li>The first letter of their composer in the alphabetical order</li>
+</ol>
+<p>To contribute to the dataset, you can select a composing genre, artist, or period of your preference. On the page of each individual songs, a playable midi recording (no downloads required, but note that it may takes some time to load), piano tile visuals, and a form which requires inputs from you regarding description labels for the music and some optional questions about your background that would help greatly to data analysis. Please complete as many forms as you can, but don&rsquo;t feel obligated to rush through them. Take the time to relax and to truly appreciate the music and the emotions that it may bring to you. Lastly, I would really appreciate it if you can share this and bring your friends and family to this data collection process as well.</p>
+<p>To access the dataset, feel free to email me at <a href="mailto:MusicDataset@gmail.com">MusicDataset@gmail.com</a>.</p>
+<h3 id="background">Background</h3>
+<p>Music Dataset is created by a high school student passionate about both music and computer science, who is seeking ways to combine these two fields and wishing to make an impact.</p>
+<p>The idea was created when the student was working on a music generation model that uses machine learning. She wished to allow the user to input specific characteristics they want in the music, and to achieve that, a curated training data must first be created for data pre-processing. She believes the current music generation models can be greatly improved to become more customizable if a dataset with specific labels are created. Then, when a user prompts for a certain characteristic as input, only songs with corresponding tags would be fed into the training model, and the output result would follow the desire of the user.</p>
+<p>While researching about plausible labels to gave to the dataset, I came about the article <a href="https://www.pnas.org/content/117/4/1924">&ldquo;What music makes us feel: At least 13 dimensions organize subjective experiences associated with music across different cultures&rdquo;</a> written by UC Berkeley researchers. This inspired the first three questions in my survey, asking for the emotion (categorized into 13 feelings: amusement, joy, eroticism, beauty, relaxation, sadness, dreaminess, triumph, anxiety, scariness, annoyance, defiance, and feeling pumped up), valence, and excitement level upon hearing a piece of music. Further questions ask for the difficulty levels about these songs, to better sort the dataset as input to the music generation machine learning model, as the input directly determines the style of the output.</p>
+<h3 id="future-improvements">Future improvements</h3>
+<p>The website and dataset is only in an infancy state, it can be improved in multiple aspects:</p>
+<ol>
+<li>Modify the website to be able to look for repertoires more easily, such as by adding a &ldquo;search&rdquo; option or by adding shortcuts using the alphabet of the first character.</li>
+<li>Advertise the website to increase the collection of form responses.</li>
+<li>Devise more labels to be included in the forms that are needed to correctly categorize the music.</li>
+<li>Add additional music data points to the dataset to possibly include instruments other than the piano.</li>
+</ol>
+<h3 id="source">Source</h3>
+<p>Currently, I have included <a href="https://magenta.tensorflow.org/datasets/maestro">MAESTRO</a> (MIDI and Audio Edited for Synchronous Tracks and Organization) Version 3.0.0 in the dataset. This source is common in music machine learning projects and includes about 200 hours of virtuosic piano performances from the <a href="https://piano-e-competition.com">International Piano-e-Competition</a>.</p>
+<h3 id="acknowledgement">Acknowledgement</h3>
+<p>Huge thank you for:</p>
+<ul>
+<li><a href="https://magenta.tensorflow.org/datasets/maestro">Magenta</a> for the MAESTRO Dataset;</li>
+<li><a href="https://gohugo.io/">Hugo</a> for the website framework and the easy generation of static sites;</li>
+<li><a href="https://github.com/miguelsimoni/hugo-initio">Hugo-Initio</a> for nice looking theme and templates;</li>
+<li><a href="https://github.com/guayom/hugo-taxonomies">Hugo taxomies</a> for teaching me how to add the taxonomy organization to the website;</li>
+<li><a href="https://github.com/cifkao/html-midi-player">Ondřej Cífka</a> for the awesome html midi player effect;</li>
+<li>And lastly, my dad, for guiding me along when I need help with coding.</li>
+</ul>
+<p>For any questions or suggestions about how this dataset can be improved, as well looking to help it expand, please feel free to email <a href="mailto:MusicDataset@gmail.com">MusicDataset@gmail.com</a> or to check out my <a href="https://github.com/MusicDataset/MusicDataset.github.io">Github repo</a> and <a href="https://ireneyrzd.github.io/">personal homepage</a>.</p>
 
   			</article>
   			
@@ -137,8 +180,8 @@
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Contact</h3>
 				<div class="widget-body">
-					<p>yiranirenewang@gmail.com<br>
-					
+					<p>
+					<a href="mailto:MusicDataset@gmail.com">MusicDataset@gmail.com</a><br>
 					<br>
 					
 					</p>
@@ -169,7 +212,7 @@
 							
             
 							
-								<a href="mailto:yiranirenewang@gmail.com" target="_blank"><i class="fas fa-envelope-square fa-1x"></i></a>
+								<a href="mailto:MusicDataset@gmail.com" target="_blank"><i class="fas fa-envelope-square fa-1x"></i></a>
 							
             
 					</p>
@@ -223,14 +266,13 @@
 
 <script src="/js/bundle.min.f4a965ad0a8118e32f8f0f158ff3aadbacf700934c22286a1a5b245105e9006da73a873b001a160db22498909c1df14d1f835dba5ad76f80b32b0234182b2a58.js" integrity="sha512-9KllrQqBGOMvjw8Vj/Oq26z3AJNMIihqGlskUQXpAG2nOoc7ABoWDbIkmJCcHfFNH4NdulrXb4CzKwI0GCsqWA=="></script>
 
-<script id="dsq-count-scr" src="//https-MusicDataset-github-io.disqus.com/count.js" async></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'GA-000000000-0', 'auto');
+  ga('create', 'G-TS4B8DJ4JY', 'auto');
   ga('send', 'pageview');
 </script>
 

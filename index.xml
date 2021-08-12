@@ -13,8 +13,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Music Dataset is created by a high school student passionate about both music and computer science. The idea was created when the student was working on a music generation model that uses machine learning. She wished to allow the user to input specific characteristics they want in the music, and to achieve that, a curated training data must be created.
-Music Dataset is a platform that collects people&amp;rsquo;s emotional responses after listening to classical music.</description>
+      <description>Music dataset Purpose Music Dataset is a platform that collects people&amp;rsquo;s emotional responses after listening to classical music. By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing a dataset for training.
+How to use it?</description>
     </item>
     
     <item>
@@ -11309,7 +11309,8 @@ Music Dataset is a platform that collects people&amp;rsquo;s emotional responses
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/subheader/</guid>
-      <description>Music Datatset is a platform that collects people&amp;rsquo;s emotional responses after listening to classical music. By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing dataset for training.</description>
+      <description>Music Datatset is a platform that collects people&amp;rsquo;s emotional responses after listening to classical music. By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing dataset for training.
+To read more</description>
     </item>
     
   </channel>
